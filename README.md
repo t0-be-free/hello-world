@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Guys,
+
+it´s Toby speaking.
+
+I´m here to learn a lot and hoping to earn money with this later in my life!
